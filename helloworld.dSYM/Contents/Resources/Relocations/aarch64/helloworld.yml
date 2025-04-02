@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zhengxiansheng/git/github i first repo/I-first-repo/helloworld'
+relocations:     []
+...
